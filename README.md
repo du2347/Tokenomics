@@ -1,4 +1,5 @@
 # Blockchain-Based Cryptocurrency Implementation for Martian Colonization: Developing KaseiCoin as a Monetary System
+![Uploading application-image.png…]()
 
 ## Executive Summary:
 #### Company Overview:
